@@ -1,4 +1,9 @@
 This is first code file
 Iam a Java developer..
+<<<<<<< HEAD
 Iam a deveops developer....
 Iam a python n aws developer...aws gc
+=======
+Iam a deveops developer..
+Iam a python n aws developer mf develop...
+>>>>>>> develop1
