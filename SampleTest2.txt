@@ -4,4 +4,6 @@ iam in 3rd line in 2nd file
 
 adding rebase and advance...
 merge conflict trainin
+one more changes:wq
+
 
